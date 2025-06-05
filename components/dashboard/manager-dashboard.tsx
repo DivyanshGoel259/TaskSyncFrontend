@@ -13,7 +13,7 @@ import { TaskForm } from "@/components/task/task-form";
 import { TaskCard } from "@/components/task/task-card";
 import { NotificationPanel } from "@/components/notifications/notification-panel";
 import { Plus, CheckSquare, Clock, AlertCircle } from "lucide-react";
-import { EmployeeType, TaskType, UserType } from "@/types";
+import { EmployeeType, TaskType} from "@/types";
 import {
   createTaskApi,
   deleteTask,
